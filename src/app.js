@@ -5,10 +5,10 @@
 //import StepFour from "./StepFour";
 //import StepFive from "./StepFive";
 //import StepSix from "./StepSix";
-//import StepSeven from "./StepSeven";
+import StepSeven from "./StepSeven";
 //import KlasseMetode from "./KlasseMetode";
 //import Person from "./Person";
-import PersonNext from "./PersonNext"
+//import PersonNext from "./PersonNext"
 
 
 // **  IIFE: Immediately Invoked Function Expression  */
@@ -24,7 +24,7 @@ import PersonNext from "./PersonNext"
      //let sfo = new StepFour();
        //let sfi = new StepFive();
        //let ssi = new StepSix();
-       //let sss = new StepSeven();
+       let sss = new StepSeven();
 
        /*
        let km = new KlasseMetode();
@@ -33,11 +33,11 @@ import PersonNext from "./PersonNext"
        */
 
       //let person  = new Person();
-let personnext = new PersonNext('Vermont');
+//let personnext = new PersonNext('Vermont');
   
-document.body.innerHTML = personnext.name;
+//document.body.innerHTML = personnext.name;
 
-console.log(personnext.name);
+//console.log(personnext.name);
 
      // console.log(person.data);
       //console.log(person.data.name);
