@@ -9,6 +9,7 @@ import StepSeven from "./StepSeven";
 //import KlasseMetode from "./KlasseMetode";
 //import Person from "./Person";
 //import PersonNext from "./PersonNext"
+//import Inh from "./Inh";
 
 
 // **  IIFE: Immediately Invoked Function Expression  */
@@ -33,6 +34,7 @@ import StepSeven from "./StepSeven";
        */
 
       //let person  = new Person();
+
 //let personnext = new PersonNext('Vermont');
   
 //document.body.innerHTML = personnext.name;
@@ -42,6 +44,9 @@ import StepSeven from "./StepSeven";
      // console.log(person.data);
       //console.log(person.data.name);
        //console.log(person.data.age);
-       //console.log(person.age = 13);
+    
+
+      // let inh = new Inh();
+
 
 })();
