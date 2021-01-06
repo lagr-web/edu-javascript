@@ -5,7 +5,8 @@
 //import StepFour from "./StepFour";
 //import StepFive from "./StepFive";
 //import StepSix from "./StepSix";
-import StepSeven from "./StepSeven";
+//import StepSeven from "./StepSeven";
+import StepEight from "./StepEight";
 //import KlasseMetode from "./KlasseMetode";
 //import Person from "./Person";
 //import PersonNext from "./PersonNext"
@@ -25,7 +26,8 @@ import StepSeven from "./StepSeven";
      //let sfo = new StepFour();
        //let sfi = new StepFive();
        //let ssi = new StepSix();
-       let sss = new StepSeven();
+       //let sss = new StepSeven();
+       let sss = new StepEight();
 
        /*
        let km = new KlasseMetode();
