@@ -1,1 +1,1 @@
-# edu-javasript
+# edu-javascript
